@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(1.jpg);
+    
+}
+
+h1{
+    color: blanchedalmond;
+    margin-top: 10%;
+    text-align: center;
+}
+
+form{
+   
+    margin-left: 30%;
+    width: 30%;
+    border-left-width: 20px;
+
+      padding: 5%;
+      border-radius: 400px;
+      background:blanchedalmond;
+      box-shadow: aliceblue; 
+}

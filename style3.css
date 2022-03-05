@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+input{
+    margin-bottom: 10px;
+    margin-left: 45%;
+}
+
+
+table,
+th,
+td {
+    border: 2px solid black;
+}
+
+table{
+    
+    width: 1000px;
+    margin: auto;
+}
+
